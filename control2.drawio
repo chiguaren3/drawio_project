@@ -157,6 +157,15 @@
         <mxCell id="suJ-lMnNEcjRT-W93V0n-58" value="&lt;font face=&quot;Times New Roman&quot;&gt;GPIO&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="515" y="620" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="suJ-lMnNEcjRT-W93V0n-60" value="&lt;font face=&quot;Times New Roman&quot;&gt;3.3v&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="475" y="640" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="suJ-lMnNEcjRT-W93V0n-61" value="&lt;font face=&quot;Times New Roman&quot;&gt;5V&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="650" y="740" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="suJ-lMnNEcjRT-W93V0n-63" value="&lt;font face=&quot;Times New Roman&quot;&gt;3.3v&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="550" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
