@@ -36,7 +36,7 @@
         <mxCell id="suJ-lMnNEcjRT-W93V0n-9" value="电源管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="suJ-lMnNEcjRT-W93V0n-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="suJ-lMnNEcjRT-W93V0n-15" target="suJ-lMnNEcjRT-W93V0n-4">
+        <mxCell id="suJ-lMnNEcjRT-W93V0n-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="suJ-lMnNEcjRT-W93V0n-15" target="suJ-lMnNEcjRT-W93V0n-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="suJ-lMnNEcjRT-W93V0n-15" value="稳压升压模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -55,6 +55,9 @@
           <mxGeometry x="420" y="700" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="suJ-lMnNEcjRT-W93V0n-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="suJ-lMnNEcjRT-W93V0n-18" target="suJ-lMnNEcjRT-W93V0n-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="suJ-lMnNEcjRT-W93V0n-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="suJ-lMnNEcjRT-W93V0n-18" target="suJ-lMnNEcjRT-W93V0n-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="suJ-lMnNEcjRT-W93V0n-18" value="DC7.4V&lt;div&gt;锂电池&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -84,10 +87,50 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="suJ-lMnNEcjRT-W93V0n-37" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="suJ-lMnNEcjRT-W93V0n-6">
+        <mxCell id="suJ-lMnNEcjRT-W93V0n-42" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="suJ-lMnNEcjRT-W93V0n-5" target="suJ-lMnNEcjRT-W93V0n-3">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="190" y="690" as="sourcePoint" />
+            <mxPoint x="290" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="suJ-lMnNEcjRT-W93V0n-43" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="200" y="539.71" as="sourcePoint" />
+            <mxPoint x="320" y="539.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="suJ-lMnNEcjRT-W93V0n-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.001;exitY=0.415;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="suJ-lMnNEcjRT-W93V0n-3" target="suJ-lMnNEcjRT-W93V0n-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="620" as="sourcePoint" />
-            <mxPoint x="620" y="670" as="targetPoint" />
+            <mxPoint x="240" y="510" as="sourcePoint" />
+            <mxPoint x="290" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="20" y="570" />
+              <mxPoint x="20" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="suJ-lMnNEcjRT-W93V0n-46" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="480" y="539.71" as="sourcePoint" />
+            <mxPoint x="600" y="539.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="suJ-lMnNEcjRT-W93V0n-48" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="suJ-lMnNEcjRT-W93V0n-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="620" as="sourcePoint" />
+            <mxPoint x="780" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="suJ-lMnNEcjRT-W93V0n-49" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="480" y="619.71" as="sourcePoint" />
+            <mxPoint x="600" y="619.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="suJ-lMnNEcjRT-W93V0n-50" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="suJ-lMnNEcjRT-W93V0n-3" target="suJ-lMnNEcjRT-W93V0n-8">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="220" y="480" as="sourcePoint" />
+            <mxPoint x="320" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
