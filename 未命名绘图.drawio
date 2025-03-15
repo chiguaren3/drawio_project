@@ -1,106 +1,106 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="25.0.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.1">
   <diagram name="第 1 页" id="CxBItxnr9yNw6PfdnhCy">
-    <mxGraphModel dx="717" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="984" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="iQaLF_SXhfc0XBqEpe74-36" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=#FFCCFF;textOpacity=0;labelBackgroundColor=#FFCCFF;strokeColor=#00CCCC;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+        <mxCell id="iQaLF_SXhfc0XBqEpe74-36" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=#FFCCFF;textOpacity=0;labelBackgroundColor=#FFCCFF;strokeColor=#00CCCC;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
           <mxGeometry x="40" y="50" width="590" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="iQaLF_SXhfc0XBqEpe74-33" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=#FFCCFF;textOpacity=0;labelBackgroundColor=#FFCCFF;strokeColor=#CCCCFF;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+        <mxCell id="iQaLF_SXhfc0XBqEpe74-33" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=#FFCCFF;textOpacity=0;labelBackgroundColor=#FFCCFF;strokeColor=#CCCCFF;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
           <mxGeometry x="40" y="210" width="590" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="iQaLF_SXhfc0XBqEpe74-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="iQaLF_SXhfc0XBqEpe74-1" target="iQaLF_SXhfc0XBqEpe74-2">
+        <mxCell id="iQaLF_SXhfc0XBqEpe74-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;labelBackgroundColor=none;fontColor=default;" parent="1" source="iQaLF_SXhfc0XBqEpe74-1" target="iQaLF_SXhfc0XBqEpe74-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iQaLF_SXhfc0XBqEpe74-8" value="控制信号A" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="iQaLF_SXhfc0XBqEpe74-7">
+        <mxCell id="iQaLF_SXhfc0XBqEpe74-8" value="控制信号A" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="iQaLF_SXhfc0XBqEpe74-7" vertex="1" connectable="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iQaLF_SXhfc0XBqEpe74-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="iQaLF_SXhfc0XBqEpe74-1" target="iQaLF_SXhfc0XBqEpe74-21">
+        <mxCell id="iQaLF_SXhfc0XBqEpe74-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="iQaLF_SXhfc0XBqEpe74-1" target="iQaLF_SXhfc0XBqEpe74-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iQaLF_SXhfc0XBqEpe74-28" value="控制信号B" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="iQaLF_SXhfc0XBqEpe74-23">
+        <mxCell id="iQaLF_SXhfc0XBqEpe74-28" value="控制信号B" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="iQaLF_SXhfc0XBqEpe74-23" vertex="1" connectable="0">
           <mxGeometry x="-0.04" y="-4" relative="1" as="geometry">
             <mxPoint x="26" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iQaLF_SXhfc0XBqEpe74-1" value="单片机" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="iQaLF_SXhfc0XBqEpe74-1" value="单片机" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="210" y="220" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iQaLF_SXhfc0XBqEpe74-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="iQaLF_SXhfc0XBqEpe74-2" target="iQaLF_SXhfc0XBqEpe74-3">
+        <mxCell id="iQaLF_SXhfc0XBqEpe74-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="iQaLF_SXhfc0XBqEpe74-2" target="iQaLF_SXhfc0XBqEpe74-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iQaLF_SXhfc0XBqEpe74-2" value="驱动阵列" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="iQaLF_SXhfc0XBqEpe74-2" value="驱动阵列" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="370" y="220" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iQaLF_SXhfc0XBqEpe74-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="iQaLF_SXhfc0XBqEpe74-3" target="iQaLF_SXhfc0XBqEpe74-13">
+        <mxCell id="iQaLF_SXhfc0XBqEpe74-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="iQaLF_SXhfc0XBqEpe74-3" target="iQaLF_SXhfc0XBqEpe74-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iQaLF_SXhfc0XBqEpe74-3" value="波动鳍" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="iQaLF_SXhfc0XBqEpe74-3" value="波动鳍" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="530" y="220" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iQaLF_SXhfc0XBqEpe74-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="iQaLF_SXhfc0XBqEpe74-4" target="iQaLF_SXhfc0XBqEpe74-1">
+        <mxCell id="iQaLF_SXhfc0XBqEpe74-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="iQaLF_SXhfc0XBqEpe74-4" target="iQaLF_SXhfc0XBqEpe74-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iQaLF_SXhfc0XBqEpe74-4" value="陀螺仪&lt;div&gt;BMX160&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="iQaLF_SXhfc0XBqEpe74-4" value="陀螺仪&lt;div&gt;BMX160&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="50" y="220" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iQaLF_SXhfc0XBqEpe74-11" value="位置信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
+        <mxCell id="iQaLF_SXhfc0XBqEpe74-11" value="位置信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="170" y="230" as="geometry" />
         </mxCell>
-        <mxCell id="iQaLF_SXhfc0XBqEpe74-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="iQaLF_SXhfc0XBqEpe74-13" target="iQaLF_SXhfc0XBqEpe74-4">
+        <mxCell id="iQaLF_SXhfc0XBqEpe74-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="iQaLF_SXhfc0XBqEpe74-13" target="iQaLF_SXhfc0XBqEpe74-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iQaLF_SXhfc0XBqEpe74-13" value="仿生鱼在目标路径中的当前位姿信息" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="iQaLF_SXhfc0XBqEpe74-13" value="仿生鱼在目标路径中的位姿信息" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="240" y="300" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iQaLF_SXhfc0XBqEpe74-16" value="BMX160检测位姿" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
+        <mxCell id="iQaLF_SXhfc0XBqEpe74-16" value="BMX160检测位姿" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="160" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="iQaLF_SXhfc0XBqEpe74-17" value="波动鳍调整运动状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
+        <mxCell id="iQaLF_SXhfc0XBqEpe74-17" value="波动鳍调整运动状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="490" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="iQaLF_SXhfc0XBqEpe74-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="iQaLF_SXhfc0XBqEpe74-18" target="iQaLF_SXhfc0XBqEpe74-21">
+        <mxCell id="iQaLF_SXhfc0XBqEpe74-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="iQaLF_SXhfc0XBqEpe74-18" target="iQaLF_SXhfc0XBqEpe74-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iQaLF_SXhfc0XBqEpe74-18" value="水深压力传感器MS5837-30BA" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="iQaLF_SXhfc0XBqEpe74-18" value="水深压力传感器MS5837-30BA" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="50" y="130" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iQaLF_SXhfc0XBqEpe74-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="iQaLF_SXhfc0XBqEpe74-19" target="iQaLF_SXhfc0XBqEpe74-22">
+        <mxCell id="iQaLF_SXhfc0XBqEpe74-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="iQaLF_SXhfc0XBqEpe74-19" target="iQaLF_SXhfc0XBqEpe74-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iQaLF_SXhfc0XBqEpe74-30" value="驱动定深背鳍调整高度" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="iQaLF_SXhfc0XBqEpe74-25">
+        <mxCell id="iQaLF_SXhfc0XBqEpe74-30" value="驱动定深背鳍调整高度" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="iQaLF_SXhfc0XBqEpe74-25" vertex="1" connectable="0">
           <mxGeometry x="-0.2762" y="-2" relative="1" as="geometry">
             <mxPoint x="58" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iQaLF_SXhfc0XBqEpe74-19" value="定深背鳍" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="iQaLF_SXhfc0XBqEpe74-19" value="定深背鳍" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="370" y="130" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iQaLF_SXhfc0XBqEpe74-20" value="线圈磁场变化" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
+        <mxCell id="iQaLF_SXhfc0XBqEpe74-20" value="线圈磁场变化" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="490" y="230" as="geometry" />
         </mxCell>
-        <mxCell id="iQaLF_SXhfc0XBqEpe74-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="iQaLF_SXhfc0XBqEpe74-21" target="iQaLF_SXhfc0XBqEpe74-19">
+        <mxCell id="iQaLF_SXhfc0XBqEpe74-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="iQaLF_SXhfc0XBqEpe74-21" target="iQaLF_SXhfc0XBqEpe74-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iQaLF_SXhfc0XBqEpe74-21" value="定深驱动单元" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="iQaLF_SXhfc0XBqEpe74-21" value="定深驱动单元" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="210" y="130" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iQaLF_SXhfc0XBqEpe74-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="iQaLF_SXhfc0XBqEpe74-22" target="iQaLF_SXhfc0XBqEpe74-18">
+        <mxCell id="iQaLF_SXhfc0XBqEpe74-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="iQaLF_SXhfc0XBqEpe74-22" target="iQaLF_SXhfc0XBqEpe74-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iQaLF_SXhfc0XBqEpe74-22" value="仿生鱼在目标路径中的当前位姿信息" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="iQaLF_SXhfc0XBqEpe74-22" value="仿生鱼在目标路径中的位姿信息" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="240" y="60" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iQaLF_SXhfc0XBqEpe74-29" value="线圈磁场变化" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
+        <mxCell id="iQaLF_SXhfc0XBqEpe74-29" value="线圈磁场变化" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="330" y="140" as="geometry" />
         </mxCell>
-        <mxCell id="iQaLF_SXhfc0XBqEpe74-31" value="传感器检测当前深度" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
+        <mxCell id="iQaLF_SXhfc0XBqEpe74-31" value="传感器检测当前深度" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="170" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="iQaLF_SXhfc0XBqEpe74-32" value="深度信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
+        <mxCell id="iQaLF_SXhfc0XBqEpe74-32" value="深度信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="170" y="140" as="geometry" />
         </mxCell>
       </root>
