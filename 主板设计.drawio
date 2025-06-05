@@ -5,10 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="yz8o8m8Co_Lcj7NCytDr-1" value="&lt;font face=&quot;宋体&quot;&gt;&amp;nbsp; &amp;nbsp;&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;电源模块&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="160" y="40" width="440" height="60" as="geometry" />
+          <mxGeometry x="160" y="40" width="440" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="yz8o8m8Co_Lcj7NCytDr-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="50" width="210" height="40" as="geometry" />
+        <mxCell id="yz8o8m8Co_Lcj7NCytDr-2" value="稳压升压" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="309" y="57.5" width="101" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="yz8o8m8Co_Lcj7NCytDr-3" value="wen压" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="57.5" width="101" height="52.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
